@@ -11,6 +11,7 @@
     <bean class="com.meng.exception.SimpleExceptionResolver"/>
 
 
+<!--    <bean id="/easy" class="com.meng.controller.EasyController"/>-->
 
 <!--    <bean id="simpleController2" class="com.meng.controller.SimpleController2"/>-->
 <!--<bean id="interceptor" class="com.meng.interceptor.SimpleHandlerInterceptor"></bean>-->

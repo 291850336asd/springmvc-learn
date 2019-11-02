@@ -53,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/meng/controller/EasyController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/meng/controller/HelloWorldController.java">
           <value>
             <set />
@@ -128,12 +133,52 @@
             <set />
           </value>
         </entry>
+        <entry key="E:/workspace/cmc-member-management/cmc-member-api/src/main/java/cmc/member/api/controller/MemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/workspace/cmc-member-management/cmc-member-front-service/src/main/java/cmc/member/front/service/impl/MemberFrontServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/workspace/cmc-member-management/cmc-member-front-service/src/main/java/cmc/member/front/service/impl/mapper/CommentFrontMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="E:/workspace/cmc-member-management/cmc-member-handler/src/main/java/cmc/member/handler/handler/GrowthAndGradeBatchSyncHandler.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="E:/workspace/cmc-member-management/cmc-member-handler/src/main/java/cmc/member/handler/handler/GrowthAndGradeSyncHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/workspace/cmc-member-management/cmc-member-task/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/workspace/cmc-member-management/cmc-member-task/src/main/java/cmc/member/job/task/SyncPointsAndLevelTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/workspace/mxuser/user-auth-front-service/src/main/java/mx/user/auth/front/service/dao/AuthFrontDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/workspace/mxuser/user-auth-front-service/src/main/java/mx/user/auth/front/service/impl/AuthFrontServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/workspace/mxuser/user-index-tools/src/main/java/cmc/api/service/subject/impl/WandaService.java">
           <value>
             <set />
           </value>
